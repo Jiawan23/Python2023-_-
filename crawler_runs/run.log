@@ -1,0 +1,8 @@
+2023-12-28 00:04:22 root:ERROR:get https://www.imdb.com/title/tt0118114 error, try to restart 1
+2023-12-28 00:04:25 root:ERROR:get https://www.imdb.com/title/tt1347439 status_code error: 404 movie_id is 86668
+2023-12-28 00:04:26 root:ERROR:get https://www.imdb.com/title/tt0118114 status_code error: 404 movie_id is 720
+2023-12-28 00:04:41 root:ERROR:get https://www.imdb.com/title/tt3762944 status_code error: 404 movie_id is 117511
+2023-12-28 00:04:50 root:ERROR:get https://www.imdb.com/title/tt1705115 error, try to restart 1
+2023-12-28 00:05:35 root:ERROR:get https://www.imdb.com/title/tt0882997 error, try to restart 1
+2023-12-28 00:05:35 root:ERROR:get https://www.imdb.com//name/nm1048560/?ref_=tt_ov_dr error, try to restart 1
+2023-12-28 00:05:36 root:ERROR:get https://www.imdb.com//name/nm2979103/?ref_=tt_ov_dr error, try to restart 1
